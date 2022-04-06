@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey, I'm Jonnie. Here's what you'll find here:
+- Julia stuff
+- <s>Other stuff</s>
 
 <!--
 **jonniedie/jonniedie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
